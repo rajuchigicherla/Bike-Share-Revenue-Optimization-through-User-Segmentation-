@@ -76,7 +76,12 @@ To investigate some of the patterns within the data processed data was uploaded 
 
 My objective was to convert casual riders into members through data analysis. This can be achieved and I will explain how shortly, however one major understanding must be made now to make a more impactful action plan. This clear understanding is that many casual users are tourists.
 
-The data indicates that a large proportion of users are tourists because a. they do not use the bikes in commute times b. casual users predominately use the bikes in the dryer and warmer months c.casual users use them predominately for weekend usage and the weekday usage drastically falls off d. they use the bikes less often but go on longer trips which indicates they are exploring e. their usage is focused around tourist areas.
+The data indicates that a large proportion of users are tourists because 
+a. they do not use the bikes in commute times
+b. casual users predominately use the bikes in the dryer and warmer months 
+c.casual users use them predominately for weekend usage and the weekday usage drastically falls off 
+d. they use the bikes less often but go on longer trips which indicates they are exploring 
+e. their usage is focused around tourist areas.
 
 #### 1. Tourist passes
 If this recommendation is accepted based on my evidence above, then it is my recommendation that the marketing team tackles these users in an attempt to capture more revenue. I would recommend a tourist pass for the bikes. Either a daily, weekly, or monthly pass would offer to be cheaper for the user to use than a per-hour rate.
